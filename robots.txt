@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.01kmph.cn/sitemap.xml
